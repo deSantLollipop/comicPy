@@ -15,3 +15,8 @@ base.html - bazowy html plik, szablon strony internetowej.
 
 index.html - rozszerza plik "base.html", i jest go następcą. wtyczka z pythona:
 			 w pętli dodaje kolejne elementy html klasy "card" do strony z odpowiednimi linkami na zdjęcia.
+			 
+
+###########################################
+			 
+Wersja dla Microsoft Visual Studio.
