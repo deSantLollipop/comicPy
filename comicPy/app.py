@@ -28,7 +28,7 @@ wsgi_app = app.wsgi_app
 
 @app.route('/')
 def home():
-    return render_template('index.html', images=images)
+    return render_template('index.html', images=images)  #pass list of images to access in .html page
 
 if __name__ == '__main__':
     import os

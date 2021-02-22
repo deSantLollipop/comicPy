@@ -31,6 +31,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="nr.txt" />
+    <Content Include="README.txt" />
     <Content Include="requirements.txt" />
     <Content Include="templates\base.html" />
     <Content Include="templates\index.html" />
